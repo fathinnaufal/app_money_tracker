@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "submission-mgce-fathinnaufal",
+  "private_key_id": "2e741dcfe1379f050e0f81606f145221bce6a47a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDCtwyZ819/kdQB\noMP1u6v2l2k7oViziB+217sQcb+oCrQ6gGHZNlmrIzIbPE8EGUPpkwALWJ0e9iV6\nrODvQlR1htJXFTrNYCmRpRf5J1CaedsLfQ4pNmk58KqslkWiNZl1cGzpKJclAnD7\nCKf1llj289eDUYoar74RvRZa3UPHtBstBvqoEINiHtbvKY5Y8Q0dCktJV8F/Xnnt\nnXmuscyIp35CcyfdQYMc71dva2uNbieMPtYWbx+5TiPMlkvqjz0/8y85nYuZ/TLx\n4HYdnNWhQD0A06u1fqaBI7E5rvOkI4RdmZi7hBI1D/kBOcuDnRoH1XNVOVH5X70Z\nzT+0MPJPAgMBAAECggEALAwvuBXjqR6qmJGvMsQ5MwfugNRPlhF5pymnQiGRSyjc\nu402VWZjo4DLQXkDoPg8MjcUX/y0UoA5W0aHfeiB5bJRm+yMCFC0JqPzx+O6aq+d\nOzyXewA5jqdgXLmD2B2K8RO1N4t8oZ0rRMahBD/2MStZOfY0qTPPagDd8UEzp5Wz\nYPAnzD6OeTImJziYj2wgkxyQF/65fHBiMMKtYG+VqFVXFDGbACQipqP9xbqgr0X7\nk4hMHytUf7nSsYcB0A9cd/tnIr7U8OOM1OhlLj2Gfk/2OfomgMCwqFSC9feBklgu\n/vDx5rFN/3sal/8jic6j66nKI9re4FE7pk0JUGCUkQKBgQD+LZMJ3hXo4EgOv+/i\nUl4y+YvEMXM155vEq3tgCQIHFyLwqcym7V5WkOXGc49aU53+Rqses0Pv163ATf5t\nv/ToJt9cJ84ENOn6Yi5e5Or5Asd04rEfb3Wy4U+AP9fXxJG62feeprwBB/eL7da5\n1DIOwTAFKP6lVD7OXg/k/DWWHwKBgQDEHFuxYCp5W5bZ+x28owF30l5zH1aUmojF\n77EMFOPotIZICIyvcWRC2hfFORVczIhW5qjU955eBySxqJw/d8bzhZJXfefzWzle\nqbJZI1KXu6MwrHtqbBbcuirnZjh4pVJXH4il6rJrP1QD3OL4HOiXqhy+bgkfBaKT\n7m8YitQ90QKBgQCkpjcKfE9rA+YJj/G/hKW6lYYhN/sunvJ7aq3H3u3uU+FxTjzg\noQCsSL5fWDozQ9kjfvmYMH3AntDRsnQu+dqWi5/CnZJJjVFHvVPWaql/VnqHz9T2\nzQfMMUGDjVevUIkqJcnOfqlobZXAkfe3dqpafnAx14Vk6Xapzaq0JWA89wKBgAlM\n3vxWdy0yLsE/q3VataMdEuWawtxhR8M7TsYn53cNuKCJ50IauoqBFUeBIYY5HO4i\nGjefVp9W72KNgHtyDrlVyE7l5a4g0WOv4Ilhp3USrPaN93xgi+UD3y0CKANws6r2\nD+DudG+pnS5ht1HU7SLkKmDNjxkthzxEvngHfXFBAoGBAIoQ0gL3sT7GPtbQI5uO\ns5bFnAyc/nAbjN7QFDY6wL7lvo8ALX0h2RUpIbfZXYGZ3JLprUEe8MDsV+r4VEkh\n6VsvmnWQ714QRHFk8DIYnTkGxyUVfwB28LU7f1YCuV+o5wrXDqN7YSAnkUyLFxrF\n3HcxmE90JzA33BoL8qK7JC+m\n-----END PRIVATE KEY-----\n",
+  "client_email": "submission-mgce-fathinnaufal2@submission-mgce-fathinnaufal.iam.gserviceaccount.com",
+  "client_id": "108207594756015021049",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/submission-mgce-fathinnaufal2%40submission-mgce-fathinnaufal.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
